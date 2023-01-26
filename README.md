@@ -1,2 +1,2 @@
-# flutter_push_notifications
+# Flutter Push Notifications
 Push notifications to flutter app from node js backend.
